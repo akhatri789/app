@@ -1,0 +1,77 @@
+{
+  "variants": [
+                {
+                    "title": "Size",
+                    "list": [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                    ]
+                },
+                {
+                    "title": "Weight",
+                    "list": [
+                        "100gm",
+                        "200gm",
+                        "300gm"
+                    ]
+                }
+            ],
+    
+         "data": [
+                {
+                    "title": "Price",
+                    "listData": [
+                      {
+                         "name": "0-499",
+                         "code": "",
+                         "value": "0-499"
+                     },{
+                         "name": "500-999",
+                         "code": "",
+                         "value": "500-999"
+                     },{
+                         "name": "1000-1999",
+                         "code": "",
+                         "value": "1000-1999"
+                     },{
+                         "name": "2000-4999",
+                         "code": "",
+                         "value": "2000-4999"
+                     },{
+                         "name": "5000-9999",
+                         "code": "",
+                         "value": "5000-9999"
+                     },{
+                         "name": "More Then 10000",
+                         "code": "",
+                         "value": ">10000"
+                     }
+                    ]
+                },{
+                    "title": "Color",
+                    "listData": [
+                      {
+                         "name": "IndianRed",
+                         "code": "#CD5C5C",
+                         "value": ""
+                     },{
+                         "name": "Amethyst",
+                         "code": "#9966CC",
+                         "value": ""
+                     },{
+                         "name": "WhiteSmoke",
+                         "code": "#F5F5F5",
+                         "value": ""
+                     },{
+                         "name": "AntiqueWhite",
+                         "code": "#FAEBD7",
+                         "value": ""
+                     }
+                    ]
+                }
+            ]
+  
+}
